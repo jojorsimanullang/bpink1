@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  font-family: "Lucida Grande";
+  font-family: "Century Gothic";
 }
 
 a {
@@ -51,16 +51,16 @@ a {
 }
 
 .signup {
-  background-color: #239b76;
+  background-color: #00ffff;
 }
 
 .facebook {
-  background-color: #3b5998;
+  background-color: #00ffff;
   margin-right: 10px;
 }
 
 .twitter {
-  background-color: #55acee;
+  background-color: #00ffff;
 }
 
 .btn {
